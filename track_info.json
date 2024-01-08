@@ -1,0 +1,40 @@
+[
+    {
+        "spotify:track:5jgEJXjECdlhzNgfITSTVm": {
+            "track_name": "Just Friends (Sunny)",
+            "artist": [
+                "Musiq Soulchild"
+            ],
+            "album": "Aijuswanaseing",
+            "duration_ms": 251426,
+            "popularity": 62,
+            "genre": [
+                "Neo-Soul",
+                "Musiq",
+                "soul",
+                "rnb",
+                "chilled"
+            ],
+            "audio_features": {
+                "danceability": 0.754,
+                "energy": 0.376,
+                "key": 0,
+                "loudness": -7.561,
+                "mode": 1,
+                "speechiness": 0.204,
+                "acousticness": 0.404,
+                "instrumentalness": 0,
+                "liveness": 0.358,
+                "valence": 0.554,
+                "tempo": 95.018,
+                "type": "audio_features",
+                "id": "5jgEJXjECdlhzNgfITSTVm",
+                "uri": "spotify:track:5jgEJXjECdlhzNgfITSTVm",
+                "track_href": "https://api.spotify.com/v1/tracks/5jgEJXjECdlhzNgfITSTVm",
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/5jgEJXjECdlhzNgfITSTVm",
+                "duration_ms": 251427,
+                "time_signature": 4
+            }
+        }
+    }
+]

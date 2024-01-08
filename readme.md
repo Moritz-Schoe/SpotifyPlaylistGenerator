@@ -1,4 +1,4 @@
-# Spotify Playlist Generator from saved songs
+# 🎵 Spotify Playlist Generator from saved songs
 **DISCLAIMER**: The project is currently under development and is **not fully functional**. Key issues are adressed later.
 
 The aim of this project is to offer a Python-based solution for generating a Spotify playlist from "saved songs" based on user preferences.
@@ -32,7 +32,7 @@ REDIRECT_URL=your_redirect_url
 
 The project is divided into three main parts:
 
-1. **PlaylistManager.py**: Contains the `PlaylistManager` class, enabling interaction with Spotify playlists and tracks.
+1. **PlaylistManager.py**: Contains the PlaylistManager class, enabling interaction with Spotify playlists and tracks.
 
 2. **BasicDataAnalysis.py**: Includes tools and methods for basic data analysis of favorite songs' data.
 
